@@ -8,7 +8,9 @@ I have also experience competitive programming and solved 260+ problems in onlin
 
 Reach Me at : 
 
-Email   :  saminfaraz40@gmail.com
+LinkedIn :  https://www.linkedin.com/in/faraz-samin-519454140/
 
-Website :  https://faraz-samin.netlify.app/
+Email    :  saminfaraz40@gmail.com
+
+Website  :  https://faraz-samin.netlify.app/
 
