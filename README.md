@@ -1,4 +1,4 @@
-I am Faraz Samin, a Computer Science & Engineering final year student.
+I am Faraz Samin
 
 I have experience in MERN stack Web Development and completed several projects.
 
